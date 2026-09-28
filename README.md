@@ -1,6 +1,6 @@
 # Cybersecurity Portfolio
 
-Hi, I'm **[Khushvaqtsho Hukumatshoev]**.
+Hi, I'm **Khushvaqtsho Hukumatshoev*.
 
 I am an **Applied Mathematics and Informatics student at [American University of Central Asia]**, currently developing practical skills in cybersecurity, programming, networking, and security operations.
 
@@ -215,7 +215,7 @@ I am interested in internship and entry-level opportunities related to:
 
 - LinkedIn: **www.linkedin.com/in/khushvaqtsho-hukumatshoev-41511b365**
 - Email: **kh.hukumatshoev@gmail.com**
-- GitHub: **[GITHUB PROFILE URL]**
+- GitHub: **https://github.com/hk12723/cybersecurity-portfolio**
 
 ---
 
