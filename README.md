@@ -1,6 +1,6 @@
 # Cybersecurity Portfolio
 
-Hi, I'm **[Khushvaqtsho Hukumatshoev]**.
+Hi, I'm **Khushvaqtsho Hukumatshoev**.
 
 I am an **Applied Mathematics and Informatics student at [American University of Central Asia]**, currently developing practical skills in cybersecurity, programming, networking, and security operations.
 
