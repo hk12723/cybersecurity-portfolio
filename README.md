@@ -4,19 +4,19 @@ Hi, I'm **[Khushvaqtsho Hukumatshoev]**.
 
 I am an **Applied Mathematics and Informatics student at [American University of Central Asia]**, currently developing practical skills in cybersecurity, programming, networking, and security operations.
 
-My main career interest is **[SOC Analyst / Security Analyst / Cybersecurity / Other]**.
+My main career interest is **SOC Analyst / Security Analyst / Cybersecurity / Other**.
 
 ---
 
 ## About Me
 
-- University: **[American University of Central Asia]**
-- Program: **[Bachelor / Applied Mathematics and Informatics]**
+- University: **American University of Central Asia**
+- Program: **Bachelor / Applied Mathematics and Informatics**
 - Expected Graduation: **[2028]**
-- Location: **[Bishkek, Kyrgyzstan]**
+- Location: **Bishkek, Kyrgyzstan**
 - Career Goal: **[TARGET ROLE]**
-- LinkedIn: **[LINKEDIN URL]**
-- Email: **[PROFESSIONAL EMAIL]**
+- LinkedIn: **www.linkedin.com/in/khushvaqtsho-hukumatshoev-41511b365**
+- Email: **kh.hukumatshoev@gmail.com**
 
 Optional:
 
@@ -97,8 +97,9 @@ Examples:
 
 ### Currently Studying
 
-- **[COURSE / CERTIFICATION]**
-- **[COURSE / CERTIFICATION]**
+- **Google Cybersecurity Certificate**
+- **ISC2**
+- SOC Level 1
 
 ---
 
