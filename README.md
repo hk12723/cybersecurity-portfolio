@@ -20,7 +20,7 @@ My main career interest is **SOC Analyst / Security Analyst / Cybersecurity / Ot
 
 Optional:
 
-- TryHackMe: **[PROFILE URL]**
+- TryHackMe: **https://tryhackme.com/p/hk12723**
 - Personal Website: **[URL]**
 - Portfolio Website: **[URL]**
 
@@ -180,11 +180,11 @@ Future projects may include:
 
 ## Education
 
-**[UNIVERSITY NAME]**
+**American University of Central Asia**
 
-**[DEGREE NAME]**
+**Applied Mathematics and Informatics**
 
-[START YEAR] – [EXPECTED GRADUATION YEAR]
+2023 – 2028
 
 Relevant coursework:
 
