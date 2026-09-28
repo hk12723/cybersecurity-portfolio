@@ -212,7 +212,7 @@ I am interested in internship and entry-level opportunities related to:
 
 ## Contact
 
-- LinkedIn: **[LINKEDIN URL]**
+- LinkedIn: **www.linkedin.com/in/khushvaqtsho-hukumatshoev-41511b365**
 - Email: **kh.hukumatshoev@gmail.com**
 - GitHub: **[GITHUB PROFILE URL]**
 
